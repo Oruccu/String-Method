@@ -1,0 +1,14 @@
+/Users/aysenuroruccu/Desktop/String Method/bin/Debug/net8.0/String Method
+/Users/aysenuroruccu/Desktop/String Method/bin/Debug/net8.0/String Method.deps.json
+/Users/aysenuroruccu/Desktop/String Method/bin/Debug/net8.0/String Method.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/String Method/bin/Debug/net8.0/String Method.dll
+/Users/aysenuroruccu/Desktop/String Method/bin/Debug/net8.0/String Method.pdb
+/Users/aysenuroruccu/Desktop/String Method/obj/Debug/net8.0/String Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/String Method/obj/Debug/net8.0/String Method.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/String Method/obj/Debug/net8.0/String Method.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/String Method/obj/Debug/net8.0/String Method.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/String Method/obj/Debug/net8.0/String Method.dll
+/Users/aysenuroruccu/Desktop/String Method/obj/Debug/net8.0/refint/String Method.dll
+/Users/aysenuroruccu/Desktop/String Method/obj/Debug/net8.0/String Method.pdb
+/Users/aysenuroruccu/Desktop/String Method/obj/Debug/net8.0/String Method.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/String Method/obj/Debug/net8.0/ref/String Method.dll
