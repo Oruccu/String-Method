@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/String Method/Homework/bin/Debug/net8.0/Homework
+/Users/aysenuroruccu/Desktop/String Method/Homework/bin/Debug/net8.0/Homework.deps.json
+/Users/aysenuroruccu/Desktop/String Method/Homework/bin/Debug/net8.0/Homework.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/String Method/Homework/bin/Debug/net8.0/Homework.dll
+/Users/aysenuroruccu/Desktop/String Method/Homework/bin/Debug/net8.0/Homework.pdb
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/Homework.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/Homework.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/Homework.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/Homework.sourcelink.json
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/Homework.dll
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/refint/Homework.dll
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/Homework.pdb
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/Homework.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/String Method/Homework/obj/Debug/net8.0/ref/Homework.dll
